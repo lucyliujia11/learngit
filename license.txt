@@ -1,5 +1,10 @@
 58758
 add my password
 creating a new branch id quick.
+<<<<<<< HEAD
 create a new  branch is quick AND simple.
 create 6897
+=======
+create a new  branch is quick AND simple
+create 6897
+>>>>>>> dev
